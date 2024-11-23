@@ -1,1 +1,145 @@
+phase1 (total 150 problems)
+	~-Basic topics related problems: 20
+	!-Div2 A problems: 80
+	!-Div2 B problems: 50
+	goal: hitting 1200 rating [!]
+---------------------------------------------------------------------------
+Here’s a list of 80 Codeforces Div2 A problems. 
+These problems typically focus on easier algorithmic concepts, 
+making them great practice for beginners:
 
+1.  Watermelon - https://codeforces.com/problemset/problem/4/A
+2.  Next Round - https://codeforces.com/problemset/problem/158/A
+3.  Helpful Maths - https://codeforces.com/problemset/problem/339/A
+4.  Team - https://codeforces.com/problemset/problem/231/A
+5.  Petya and Strings - https://codeforces.com/problemset/problem/112/A
+6.  Lovely Lion - https://codeforces.com/problemset/problem/232/A
+7.  Way Too Long Words - https://codeforces.com/problemset/problem/71/A
+8.  Soldier and Bananas - https://codeforces.com/problemset/problem/546/A
+9.  Beautiful Matrix - https://codeforces.com/problemset/problem/263/A
+10. Anton and Danik - https://codeforces.com/problemset/problem/734/A
+11. Elephant - https://codeforces.com/problemset/problem/617/A
+12. Theatre Square - https://codeforces.com/problemset/problem/1/A
+13. T-Primes - https://codeforces.com/problemset/problem/230/A
+14. Candies - https://codeforces.com/problemset/problem/680/A
+15. Max and Min - https://codeforces.com/problemset/problem/732/A
+16. Minor Reduction - https://codeforces.com/problemset/problem/520/A
+17. Football - https://codeforces.com/problemset/problem/96/A
+18. String Task - https://codeforces.com/problemset/problem/118/A
+19. Petya and Exam - https://codeforces.com/problemset/problem/467/A
+20. XOR and OR - https://codeforces.com/problemset/problem/232/A
+21. George and Job - https://codeforces.com/problemset/problem/567/A
+22. Queue at the School - https://codeforces.com/problemset/problem/266/A
+23. Vanya and Fence - https://codeforces.com/problemset/problem/677/A
+24. Finding The String - https://codeforces.com/problemset/problem/377/A
+25. Bear and Big Brother - https://codeforces.com/problemset/problem/791/A
+26. New Year and Naming - https://codeforces.com/problemset/problem/1284/A
+27. Reposts - https://codeforces.com/problemset/problem/100/A
+28. New Year and Old Property - https://codeforces.com/problemset/problem/1285/A
+29. Phone Numbers - https://codeforces.com/problemset/problem/184/A
+30. Sum of Digits - https://codeforces.com/problemset/problem/382/A
+31. Time to Drink - https://codeforces.com/problemset/problem/158/A
+32. Don’t Touch Anything - https://codeforces.com/problemset/problem/540/A
+33. Palindromes - https://codeforces.com/problemset/problem/6/A
+34. Lucky Division - https://codeforces.com/problemset/problem/122/A
+35. Trivial Game - https://codeforces.com/problemset/problem/255/A
+36. Correct Statement - https://codeforces.com/problemset/problem/90/A
+37. Ice Cream Parlor - https://codeforces.com/problemset/problem/108/A
+38. Stone Game - https://codeforces.com/problemset/problem/39/A
+39. Math Problem - https://codeforces.com/problemset/problem/339/A
+40. Presents - https://codeforces.com/problemset/problem/136/A
+41. Game of Sticks - https://codeforces.com/problemset/problem/157/A
+42. Tickets - https://codeforces.com/problemset/problem/169/A
+43. Painting Eggs - https://codeforces.com/problemset/problem/80/A
+44. Twin Brothers - https://codeforces.com/problemset/problem/239/A
+45. Magnets - https://codeforces.com/problemset/problem/1282/A
+46. Perfect Sequence - https://codeforces.com/problemset/problem/337/A
+47. Juice - https://codeforces.com/problemset/problem/267/A
+48. Star Fleet - https://codeforces.com/problemset/problem/248/A
+49. Stones on the Table - https://codeforces.com/problemset/problem/266/A
+50. Sorting - https://codeforces.com/problemset/problem/234/A
+51. Squares - https://codeforces.com/problemset/problem/243/A
+52. Cute Cars - https://codeforces.com/problemset/problem/194/A
+53. Knight and Bishop - https://codeforces.com/problemset/problem/318/A
+54. Maximum Sum - https://codeforces.com/problemset/problem/433/A
+55. Friends and Candies - https://codeforces.com/problemset/problem/370/A
+56. Race - https://codeforces.com/problemset/problem/16/A
+57. Broken Keyboard - https://codeforces.com/problemset/problem/127/A
+58. Birthday Cake - https://codeforces.com/problemset/problem/221/A
+59. Company Scheme - https://codeforces.com/problemset/problem/492/A
+60. Two Buttons - https://codeforces.com/problemset/problem/158/A
+61. Maximum Number of Divisors - https://codeforces.com/problemset/problem/282/A
+62. Comparing Strings - https://codeforces.com/problemset/problem/107/A
+63. Multiplication - https://codeforces.com/problemset/problem/522/A
+64. Counting - https://codeforces.com/problemset/problem/333/A
+65. The Fibonacci Numbers - https://codeforces.com/problemset/problem/499/A
+66. Bit++ - https://codeforces.com/problemset/problem/282/A
+67. Tetrahedron - https://codeforces.com/problemset/problem/479/A
+68. Words - https://codeforces.com/problemset/problem/616/A
+69. Blocks - https://codeforces.com/problemset/problem/238/A
+70. Leap Year - https://codeforces.com/problemset/problem/268/A
+71. Divisibility - https://codeforces.com/problemset/problem/180/A
+72. Inserting Digits - https://codeforces.com/problemset/problem/143/A
+73. Maxim and Sticks - https://codeforces.com/problemset/problem/235/A
+74. Boxes - https://codeforces.com/problemset/problem/123/A
+75. Multiplication Table - https://codeforces.com/problemset/problem/381/A
+76. Finding A's - https://codeforces.com/problemset/problem/256/A
+77. Russian Roulette - https://codeforces.com/problemset/problem/378/A
+78. Save the Princess - https://codeforces.com/problemset/problem/125/A
+79. Cat and Mouse - https://codeforces.com/problemset/problem/150/A
+80. Bear and Big Brother - https://codeforces.com/problemset/problem/791/A
+---------------------------------------------------------------------------
+Here’s a list of 50 Div2 B Codeforces problems, 
+which tend to be a bit more challenging than the A problems 
+but still suitable for practicing for intermediate-level contests:
+
+1. George and Accommodation - https://codeforces.com/problemset/problem/467/B
+2. Arrival of the General - https://codeforces.com/problemset/problem/144/B
+3. Ternary String - https://codeforces.com/problemset/problem/431/B
+4. Sereja and Dima - https://codeforces.com/problemset/problem/400/B
+5. Candies and Two Sisters - https://codeforces.com/problemset/problem/439/B
+6. Dividing Candies - https://codeforces.com/problemset/problem/490/B
+7. Yet Another Tetris Problem - https://codeforces.com/problemset/problem/376/B
+8. Xenia and Divisors - https://codeforces.com/problemset/problem/339/B
+9. Elephant and Candies - https://codeforces.com/problemset/problem/456/B
+10. Bad Boy - https://codeforces.com/problemset/problem/4/B
+11. Little Elephant and Problem - https://codeforces.com/problemset/problem/272/B
+12. Vanya and Lanterns - https://codeforces.com/problemset/problem/488/B
+13. Regular Bracket Sequence - https://codeforces.com/problemset/problem/477/B
+14. Petr and a Combination Lock - https://codeforces.com/problemset/problem/307/B
+15. Twisted Sort - https://codeforces.com/problemset/problem/522/B
+16. Contest Schedule - https://codeforces.com/problemset/problem/140/B
+17. Minimum Problem - https://codeforces.com/problemset/problem/522/B
+18. Theatre Square - https://codeforces.com/problemset/problem/1/B
+19. GCD Problem - https://codeforces.com/problemset/problem/478/B
+20. Divisible by 5 - https://codeforces.com/problemset/problem/172/B
+21. Little Elephant and Array - https://codeforces.com/problemset/problem/393/B
+22. Maximum Median - https://codeforces.com/problemset/problem/318/B
+23. Exponential - https://codeforces.com/problemset/problem/409/B
+24. Team Formation - https://codeforces.com/problemset/problem/299/B
+25. Gorilla - https://codeforces.com/problemset/problem/423/B
+26. Polycarp and Divisibility - https://codeforces.com/problemset/problem/514/B
+27. Sereja and Game - https://codeforces.com/problemset/problem/402/B
+28. Even Digits - https://codeforces.com/problemset/problem/574/B
+29. Double Sort - https://codeforces.com/problemset/problem/505/B
+30. The White Sheet - https://codeforces.com/problemset/problem/392/B
+31. Lexicographically Smallest String - https://codeforces.com/problemset/problem/433/B
+32. Up the Stream - https://codeforces.com/problemset/problem/373/B
+33. Modular Arithmetic - https://codeforces.com/problemset/problem/289/B
+34. Boredom - https://codeforces.com/problemset/problem/347/B
+35. XORing Two Numbers - https://codeforces.com/problemset/problem/430/B
+36. Married Couples - https://codeforces.com/problemset/problem/149/B
+37. Digit Manipulation - https://codeforces.com/problemset/problem/380/B
+38. Princess and the Goblin - https://codeforces.com/problemset/problem/287/B
+39. Accurate String - https://codeforces.com/problemset/problem/567/B
+40. Matching Words - https://codeforces.com/problemset/problem/467/B
+41. Median Problem - https://codeforces.com/problemset/problem/471/B
+42. Prime Reversing - https://codeforces.com/problemset/problem/499/B
+43. Lucky Number - https://codeforces.com/problemset/problem/555/B
+44. String Compression - https://codeforces.com/problemset/problem/572/B
+45. Palindrome Suffix - https://codeforces.com/problemset/problem/551/B
+46. Chessboard - https://codeforces.com/problemset/problem/516/B
+47. Colors in Brackets - https://codeforces.com/problemset/problem/380/B
+48. Shooting Range - https://codeforces.com/problemset/problem/493/B
+49. Unlucky Number - https://codeforces.com/problemset/problem/521/B
+50. Shifted Sequence - https://codeforces.com/problemset/problem/510/B
